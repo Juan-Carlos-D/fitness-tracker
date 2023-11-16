@@ -21,10 +21,10 @@ The Fitness Tracker with machine learning enables users to effortlessly monitor 
 The project was developed using Python, integrating crucial libraries such as Matplotlib, Pandas, Scikit-learn, and NumPy for data analysis, visualization, and machine learning model development.
 
 - Working Process:
-1. Data Retrieval and Processing: Utilized Pandas for efficient retrieval and processing of accelerometer and gyroscope data.
-2. Machine Learning Model Training: Employed Scikit-learn to develop models for recognizing movement patterns associated with various exercises.
-3. Real-time Recognition and Visualization: Utilized NumPy and Matplotlib for real-time analysis and visually representing exercise performance and rep counting.
-4. User Confirmation and Engagement: Provided users with the opportunity to visually confirm and validate the automatically counted reps through Matplotlib-generated graphs.
+  - Data Retrieval and Processing: Utilized Pandas for efficient retrieval and processing of accelerometer and gyroscope data.
+  - Machine Learning Model Training: Employed Scikit-learn to develop models for recognizing movement patterns associated with various exercises.
+  - Real-time Recognition and Visualization: Utilized NumPy and Matplotlib for real-time analysis and visually representing exercise performance and rep counting.
+  - User Confirmation and Engagement: Provided users with the opportunity to visually confirm and validate the automatically counted reps through Matplotlib-generated graphs.
 
 # Achievements:
 The Fitness Tracker, powered by Matplotlib, Pandas, Scikit-learn, and NumPy, delivers a seamless workout tracking experience, achieving 98% accuracy in counting reps while actively engaging users in monitoring their progress.
