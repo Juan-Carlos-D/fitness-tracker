@@ -28,3 +28,5 @@ The project was developed using Python, integrating crucial libraries such as Ma
 
 # Achievements:
 The Fitness Tracker, powered by Matplotlib, Pandas, Scikit-learn, and NumPy, delivers a seamless workout tracking experience, achieving 98% accuracy in counting reps while actively engaging users in monitoring their progress.
+
+![Fitness Tracker Features](https://github.com/Juan-Carlos-D/fitness-tracker/assets/134022726/cd0e99a2-b2f1-4e32-9669-0f8993e47702)
